@@ -21,7 +21,7 @@ This header file includes optimized implementations of the most important number
 ---
 
 ## 🛠️ Usage
-Include the header file in your project:
+
 
 ```cpp
 #include "number_theory.hpp"
